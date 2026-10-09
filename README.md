@@ -3,9 +3,9 @@
 
 Muş Alparslan Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. Yenilikçi çözümler üretmeyi, modern web ve oyun teknolojileri üzerinde çalışmayı seviyorum. 
 
-- 🔭 Şu anda **TÜBİTAK 2209-A** araştırma projem ve **TEKNOFEST 2026** yarışmaları için hazırlanıyorum.
-- 💻 Son zamanlarda DİSKİ için tam yığın (full-stack) bir **Arıza Takip Sistemi** ve Godot Engine ile 2D oyunlar geliştirdim.
-- 🌱 Şu sıralar **React, FastAPI, SQL Server ve Python** mimarileri üzerinde derinleşiyorum.
+- 💡 Karmaşık **problem çözme** süreçlerinden keyif alıyor, algoritmik düşünme ve **takım çalışmasına** büyük önem veriyorum.
+- 💻 Aşağıdaki repolarımda da görebileceğin gibi; E-Ticaret sistemleri, yapay zeka destekli otonom simülasyonlar, arıza takip otomasyonları (DİSKİ) ve oyun geliştirme üzerine çeşitli projeler üretiyorum.
+- 🌱 Şu sıralar **React, FastAPI, SQL Server ve Python** mimarileri üzerinde yeteneklerimi daha da derinleştiriyorum.
 - 📫 Bana ulaşmak için: **[LinkedIn Profilim](https://www.linkedin.com/in/SercanSoftware)**
 
 ---
@@ -29,7 +29,6 @@ Muş Alparslan Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisi
 **Veritabanı & Araçlar:**  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
