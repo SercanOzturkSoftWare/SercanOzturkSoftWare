@@ -1,41 +1,52 @@
-<h1 align="center">Merhaba 👋, Ben Sercan Öztürk</h1>
-<h3 align="center">Yazılım Mühendisliği Öğrencisi & Full-Stack Geliştirici</h3>
+<h1 align="center">Hi 👋, I'm Sercan Öztürk</h1>
+<h3 align="center">Software Engineering Student & Full-Stack Developer</h3>
 
-Muş Alparslan Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. Yenilikçi çözümler üretmeyi, modern web ve oyun teknolojileri üzerinde çalışmayı seviyorum. 
+---
 
-- 💡 Karmaşık **problem çözme** süreçlerinden keyif alıyor, algoritmik düşünme ve **takım çalışmasına** büyük önem veriyorum.
-- 💻 Aşağıdaki repolarımda da görebileceğin gibi; E-Ticaret sistemleri, yapay zeka destekli otonom simülasyonlar, arıza takip otomasyonları (DİSKİ) ve oyun geliştirme üzerine çeşitli projeler üretiyorum.
+### 🇬🇧 About Me
+I am a 3rd-year Software Engineering student at Muş Alparslan University. I highly value algorithmic thinking, teamwork, and enjoy complex problem-solving processes. 
+
+- 💻 Alongside my open-source repositories featuring E-Commerce systems, AI-supported autonomous simulations, and full-stack fault tracking automations (like DİSKİ), I also actively develop 2D games and research projects which are currently kept in private repositories.
+- 🌱 I’m currently diving deeper into **React, FastAPI, SQL Server, and Python** architectures.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sercan-öztürk-1101ab334/)**
+
+---
+
+### 🇹🇷 Hakkımda
+Muş Alparslan Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. Karmaşık problem çözme süreçlerinden keyif alıyor, algoritmik düşünme ve takım çalışmasına büyük önem veriyorum. 
+
+- 💻 Aşağıdaki açık kaynaklı repolarımda görebileceğin E-Ticaret sistemleri, yapay zeka destekli otonom simülasyonlar ve arıza takip otomasyonlarının (DİSKİ) yanı sıra; aktif olarak geliştirdiğim ve şu an için gizli (private) repolarda tuttuğum 2D oyunlar ve araştırma projelerim de bulunuyor.
 - 🌱 Şu sıralar **React, FastAPI, SQL Server ve Python** mimarileri üzerinde yeteneklerimi daha da derinleştiriyorum.
-- 📫 Bana ulaşmak için: **[LinkedIn Profilim](https://www.linkedin.com/in/SercanSoftware)**
+- 📫 Bana ulaşmak için: **[LinkedIn Profilim](https://www.linkedin.com/in/sercan-öztürk-1101ab334/)**
 
 ---
 
-### 🛠️ Kullandığım Diller ve Araçlar
+<h3 align="center">🛠️ Languages and Tools / Diller ve Araçlar</h3>
 
-**Programlama Dilleri:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+**💻 Programming Languages / Programlama Dilleri:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,cs,godot" />
+  </a>
+</p>
 
-**Frontend & Backend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**🌐 Frontend & Backend:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,fastapi,tailwind,html,css" />
+  </a>
+</p>
 
-**Veritabanı & Araçlar:**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+**🗄️ Database & Tools / Veritabanı ve Araçlar:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,figma,git" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SercanOzturkSoftWare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Sercan's GitHub Stats" />
