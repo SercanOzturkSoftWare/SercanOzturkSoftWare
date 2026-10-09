@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Merhaba 👋, Ben Sercan Öztürk</h1>
+<h3 align="center">Yazılım Mühendisliği Öğrencisi & Full-Stack Geliştirici</h3>
 
-<!--
-**SercanOzturkSoftWare/SercanOzturkSoftWare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Muş Alparslan Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. Yenilikçi çözümler üretmeyi, modern web ve oyun teknolojileri üzerinde çalışmayı seviyorum. 
 
-Here are some ideas to get you started:
+- 💡 Karmaşık **problem çözme** süreçlerinden keyif alıyor, algoritmik düşünme ve **takım çalışmasına** büyük önem veriyorum.
+- 💻 Aşağıdaki repolarımda da görebileceğin gibi; E-Ticaret sistemleri, yapay zeka destekli otonom simülasyonlar, arıza takip otomasyonları (DİSKİ) ve oyun geliştirme üzerine çeşitli projeler üretiyorum.
+- 🌱 Şu sıralar **React, FastAPI, SQL Server ve Python** mimarileri üzerinde yeteneklerimi daha da derinleştiriyorum.
+- 📫 Bana ulaşmak için: **[LinkedIn Profilim](https://www.linkedin.com/in/SercanSoftware)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Kullandığım Diller ve Araçlar
+
+**Programlama Dilleri:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+**Frontend & Backend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Veritabanı & Araçlar:**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SercanOzturkSoftWare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Sercan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SercanOzturkSoftWare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
